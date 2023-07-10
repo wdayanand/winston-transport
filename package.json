@@ -44,7 +44,7 @@
     "mocha": "^10.0.0",
     "nyc": "^15.1.0",
     "rimraf": "^3.0.2",
-    "winston-compat": "^0.1.5"
+    "winston-compat": "wdayanand/winston-compat"
   },
   "engines": {
     "node": ">= 6.4.0"
